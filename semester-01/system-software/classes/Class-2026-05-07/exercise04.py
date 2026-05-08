@@ -1,3 +1,7 @@
+# Autor: João Pedro Gomes da Silva Rodrigues
+
+# Exercicio 04: Faça um programa, utilizando while, que permita o usuário fazer contas de adição enquanto quiser.
+
 print("=" * 30)
 print("Operação - Adição")
 print("=" * 30)
